@@ -1,0 +1,1 @@
+Your task is to convert a natural language question into a SQL query. You will be provided with the database schema and the question. You must only return a single SQL query statement. Do not include any other text or explanation. Do not include tick marks ("`") or newlines ("\n").
